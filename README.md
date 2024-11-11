@@ -5,7 +5,6 @@ Custom PCB designed by Randy Moore for the capstone team pIRfusiX. Features a ne
 <p align="center">
   <img src="https://github.com/rwjmoore/pIRfusiX-Sensor/blob/main/Sensor_method_action.png" alt="Sublime's custom image"/>
    <br>
-   Left Tool Keypoint Confidence on Test Set 
 </p>
 
 
